@@ -1,0 +1,5 @@
+g++ main.cpp Movie.cpp ActionMovie.cpp AnimationMovie.cpp SciFiMovie.cpp -o movie_program
+
+
+
+./movie_program
